@@ -27,6 +27,20 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>fd27944290291300964f48412a7aaf6b</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-19 18:48:39</sys_created_on>
+        <sys_id>e447944290291300964f48412a7aaf33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-19 18:48:39</sys_updated_on>
+        <value>post</value>
+        <variable display_value="">59877da10b3222000b7da95e93673a56</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>fd27944290291300964f48412a7aaf6b</document_key>
         <order>3</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -112,19 +126,5 @@
   ]&#13;
 }</value>
         <variable display_value="">81e042650b3222000b7da95e93673aa2</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_atf_step</document>
-        <document_key>fd27944290291300964f48412a7aaf6b</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-19 18:48:39</sys_created_on>
-        <sys_id>e447944290291300964f48412a7aaf33</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-19 18:48:39</sys_updated_on>
-        <value>post</value>
-        <variable display_value="">59877da10b3222000b7da95e93673a56</variable>
     </sys_variable_value>
 </record_update>

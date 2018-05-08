@@ -28,34 +28,6 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>5d62ea2990e11300964f48412a7aaf1d</document_key>
-        <order>2</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-18 15:53:53</sys_created_on>
-        <sys_id>36a52e2990e11300964f48412a7aafd9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-19 18:06:02</sys_updated_on>
-        <value>/api/x_snc_polls/v1/poll/{{step['a16d04ce90e51300964f48412a7aaf85'].record_id}}</value>
-        <variable display_value="">50bff9250b3222000b7da95e93673a9b</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_atf_step</document>
-        <document_key>5d62ea2990e11300964f48412a7aaf1d</document_key>
-        <order>0</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-18 15:53:53</sys_created_on>
-        <sys_id>3aa52e2990e11300964f48412a7aafd8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-18 15:53:53</sys_updated_on>
-        <value>d0ddd6e590e11300964f48412a7aaf9f</value>
-        <variable display_value="">020a6af09fd32200ef4afa7dc67fcfec</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_atf_step</document>
-        <document_key>5d62ea2990e11300964f48412a7aaf1d</document_key>
         <order>5</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -108,6 +80,34 @@
         <sys_updated_on>2018-04-18 15:53:53</sys_updated_on>
         <value/>
         <variable display_value="">cec002650b3222000b7da95e93673aae</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>5d62ea2990e11300964f48412a7aaf1d</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:53:53</sys_created_on>
+        <sys_id>3aa52e2990e11300964f48412a7aafd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 15:53:53</sys_updated_on>
+        <value>d0ddd6e590e11300964f48412a7aaf9f</value>
+        <variable display_value="">020a6af09fd32200ef4afa7dc67fcfec</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>5d62ea2990e11300964f48412a7aaf1d</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 15:53:53</sys_created_on>
+        <sys_id>36a52e2990e11300964f48412a7aafd9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-19 18:06:02</sys_updated_on>
+        <value>/api/x_snc_polls/v1/poll/{{step['a16d04ce90e51300964f48412a7aaf85'].record_id}}</value>
+        <variable display_value="">50bff9250b3222000b7da95e93673a9b</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=5d62ea2990e11300964f48412a7aaf1d"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
